@@ -25,3 +25,5 @@ def binary_insertion(data):
     return data
 
 binary_insertion([5,2,1,4,3])
+
+print("Hello World")
